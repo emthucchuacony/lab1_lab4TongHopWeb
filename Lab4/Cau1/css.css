@@ -1,0 +1,32 @@
+body {
+    transition: background-color 0.3s ease-in-out;
+}
+
+#container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.color-button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+.green {
+    background-color: green;
+    color: white;
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+}
